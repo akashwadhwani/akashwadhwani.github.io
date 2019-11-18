@@ -15,8 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Akash Wadhwani"
-description:	       "a personal project presentation"
-author:              "made with <3"
+description:	       "a personal project presentation."
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
