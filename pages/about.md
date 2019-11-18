@@ -3,4 +3,8 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+A visual storyteller specializing in data privacy and statistical analysis. I leverage Python, SQL, and
+Javascript to execute technical solutions and narrate user oriented stories. Conducted research on the effect
+of GDPR laws on tech companies and their users. 
+
+Keywords: Java, R, SQL, Python, Agile,Teamwork, Business Analysis, HTML, Tabelau, Data Visualisation, Privacy, MS Excel.
