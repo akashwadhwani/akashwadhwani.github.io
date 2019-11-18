@@ -10,8 +10,8 @@ menu:
 - {name: 'About', folder: 'pages', file: 'facts.html'}
 - {name: 'Beyond Face Value', folder: 'pages', file: 'resources.html'}
 - {name: 'Colour Coded', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Choose Your Path: BRC', folder: 'pages', file: 'documentation.html'}
-- {name: 'Concerns|Warning', folder: 'pages', file: 'about.html'}
+- {name: 'Path', folder: 'pages', file: 'documentation.html'}
+- {name: 'Concerns | Warning', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
