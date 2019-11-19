@@ -4,7 +4,7 @@ title: "Coded Colour"
 author: "Akash Wadhwani"
 categories: facts
 tags: [documentation,sample]
-image: cc4.jpg
+image: cc6.jpg
 ---
 
 The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. 
