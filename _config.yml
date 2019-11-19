@@ -12,6 +12,10 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 sass:
   sass_dir: assets/css
   style: :nested
+  
+  title:		           ""
+description:	       "a personal project presentation"
+author:              "Akash Wadhwani"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
