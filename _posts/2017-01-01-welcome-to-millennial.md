@@ -4,7 +4,7 @@ title: "Concerns | Warnings"
 author: "Akash Wadhwani"
 categories: documentation
 tags: [documentation,sample]
-image: w1.jpg
+image: w1.png
 ---
 
 **Zero Waste, No hunger?**
