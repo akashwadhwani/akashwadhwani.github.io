@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Beyong FaceValue"
+title: "Beyond FaceValue"
 author: "Akash Wadhwani"
 categories: documentation
 tags: [documentation,sample]
 image: cm1.jpeg
 ---
-
-https://github.com/akashwadhwani/Beyond-Facevalue/blob/master/FinalTrying23.pdf
 
 Beyond FaceValue
 Smile, you’re on the camera.
