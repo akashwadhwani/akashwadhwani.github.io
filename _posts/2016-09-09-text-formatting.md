@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "Life. Path."
 author: "Akash Wadhwani"
 categories: sample
 tags: [sample]
