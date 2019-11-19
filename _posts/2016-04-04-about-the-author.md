@@ -1,10 +1,13 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Akash Wadhwani"
 categories: facts
 tags: [sample]
 image: cuba-4.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hi there! I'm Akash. A visual storyteller specializing in data privacy and statistical analysis. I leverage Python, SQL, and
+Javascript to execute technical solutions and narrate user oriented stories. Conducted research on the effect
+of GDPR laws on tech companies and their users. Keywords: Java, R, SQL, Python, Agile,Teamwork,
+Business Analysis, HTML, Tabelau, Data Visualisation, Privacy, MS Excel.
