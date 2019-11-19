@@ -17,6 +17,6 @@ Comparing them side by side helps understand the colour and entertainment cultur
 
 The colour palette significantly change with the location, as the most popular video in South Korea is fairly brighter than the most popular video in all the other comparing countries. Colours used in India’s videos are more vibrant than others, as in United States's the most popular video has a dark colour palette, videos in UK follow almost same pattern as United States.
 
-Please click here to download the project report. 
+Please click here to download [the project report](https://github.com/akashwadhwani/akashwadhwani.github.io/blob/master/assets/img/Final%20Design%20outcome.pdf) and here to download [the code.](https://github.com/akashwadhwani/akashwadhwani.github.io/blob/master/assets/img/visualize_barcode.py)
 
 
