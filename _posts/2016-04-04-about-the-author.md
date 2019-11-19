@@ -4,7 +4,7 @@ title: "About the Author"
 author: "Akash Wadhwani"
 categories: facts
 tags: [sample]
-image: cuba-4.jpg
+image: linkedin.jpg
 ---
 
 Hi there! I'm Akash. A visual storyteller specializing in data privacy and statistical analysis. I leverage Python, SQL, and
