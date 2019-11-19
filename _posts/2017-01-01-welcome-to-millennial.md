@@ -4,7 +4,7 @@ title: "Concerns | Warnings"
 author: "Akash Wadhwani"
 categories: documentation
 tags: [documentation,sample]
-image: w2.jpg
+image: w1.png
 ---
 
 **Zero Waste, No hunger?**
@@ -18,3 +18,5 @@ The idea was to use the warning labels like on cigarette boxes to seek awareness
 ## Inspiration
 
 Cigarette boxes and tobacco companies.
+
+Please download the whole [project here.](https://github.com/akashwadhwani/akashwadhwani.github.io/blob/master/assets/img/warning.pdf)
