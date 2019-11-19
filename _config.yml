@@ -12,6 +12,10 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 sass:
   sass_dir: assets/css
   style: :nested
+  
+title:		           "Akash Wadhwani"
+description:	       "a personal project presentation"
+author:              "Akash Wadhwani"
 
 
 
