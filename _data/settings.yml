@@ -7,10 +7,6 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Beyond Face Value', folder: 'pages', file: 'facts.html'}
-- {name: 'Concerns | Warnings', folder: 'pages', file: 'resources.html'}
-- {name: 'Colour Coded', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Path', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
