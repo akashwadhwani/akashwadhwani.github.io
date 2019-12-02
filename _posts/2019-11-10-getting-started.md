@@ -11,8 +11,7 @@ Beyond FaceValue.
 
 Smile, you’re on the camera.
 
-"You have zero privacy anyway. Get over it."
-- Scott McNealy, Co-Founder Sun Microsystems (1999)
+"You have zero privacy anyway. Get over it." - Scott McNealy, Co-Founder Sun Microsystems (1999)
 
 # Research question
 Moving towards a surveillance state in UK with the rise of facial recognition and its disguised use becoming a norm. Are the new EU GDPR guidelines unintentionally creating a path of camouflaged spying? Is the crime rate decreasing or is it just the privacy being harmed?
