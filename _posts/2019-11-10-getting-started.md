@@ -11,7 +11,8 @@ Beyond FaceValue.
 
 Smile, you’re on the camera.
 
-“Ubiquitous digital identification systems are no longer the realm of futuristic fantasy or dystopia.” – Ada Lovelace Institute (2019) 
+"You have zero privacy anyway. Get over it."
+- Scott McNealy, Co-Founder Sun Microsystems (1999)
 
 # Research question
 Moving towards a surveillance state in UK with the rise of facial recognition and its disguised use becoming a norm. Are the new EU GDPR guidelines unintentionally creating a path of camouflaged spying? Is the crime rate decreasing or is it just the privacy being harmed?
